@@ -10,5 +10,5 @@ The bot will respond with an embed containing:
 - A button that takes the user to the chapter link on the **3asq.org** website.
 - A static image related to the manga.
 
-  ## This Bot Developed By:
+  # This Bot Developed By :
   - .52s
